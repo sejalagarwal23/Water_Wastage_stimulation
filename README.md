@@ -6,6 +6,11 @@ A Python-based simulation designed to monitor water usage, detect unattended tap
 
 The application simulates the real-time operation of smart water taps integrated with an automated monitoring service. It tracks flow rates, identifies if a tap has been left running unattended beyond a safe duration, and applies basic statistical anomaly detection to flag potential leaks.
 
+However there is a developed part of this which is discussed in details inside this pdf link:
+https://1drv.ms/b/c/af09d61bb0b79bdd/IQDjwcHMLJA3Sb7aa7lKBvthAQlzUWnhcgzvj_iPb4stwjY?e=5coMQa 
+
+This is simple stimulation of project 
+
 ## System Components
 
 The project structure comprises the following core modules:
@@ -99,3 +104,5 @@ System Execution Completed
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
+
+
